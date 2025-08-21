@@ -39,7 +39,7 @@ Implementing user-focused sections such as skills, experience, and project showc
 
 Enhancing UI/UX using clean design principles and responsive elements
 
-To Run
+# To Run
 Double-click index.html → It will open in your default web browser.
 
 Or right-click index.html → Open With → Browser (Chrome/Edge/Firefox).
