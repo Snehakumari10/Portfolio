@@ -1,10 +1,10 @@
 # Portfolio Website
 This is a personal portfolio website showcasing my skills, experience, projects, and certifications as a Web Developer. It is built using HTML, CSS, Bootstrap, and custom styling to create a responsive and professional design.
 
-🔗 Links
+# 🔗 Links
 linkedin
 
-📌 Features
+# 📌 Features
 Responsive Hero Section with introduction
 
 About Me section with education details
@@ -21,7 +21,7 @@ Contact Form with email, phone, and location details
 
 Footer with social media links
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 HTML5
 
 CSS3 (custom + Bootstrap 5)
@@ -30,7 +30,7 @@ Bootstrap 5 (responsive design & layout)
 
 FontAwesome (icons
 
-📚 What I Learned
+# 📚 What I Learned
 Structuring webpages using semantic HTML5
 
 Designing modern and responsive layouts with CSS3 & Bootstrap 5
